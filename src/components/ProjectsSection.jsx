@@ -7,7 +7,7 @@ const projects = [
     description: "A Food Delivery platform with user authentication and payment processing.",
     image: "/image_1.png",
     tags: ["React", "RazorPay", "JavaScript", "Node.js", "Express.js", "MongoDB"],
-    demoUrl: "#",
+    demoUrl: "https://nom-nom-nation.onrender.com/",
     githubUrl: "https://github.com/GauRaVNeGi29/Nom-Nom-Nation-MERN",
   },
   {
