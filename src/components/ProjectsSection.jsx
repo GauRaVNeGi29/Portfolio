@@ -12,19 +12,19 @@ const projects = [
   },
   {
     id: 2,
-    title: "Email Reg",
+    title: "Docify",
     description:
-      "A Full Stack Website providing various email registration features.",
-    image: "/image_2.png",
-    tags: ["JavaScript", "React", "Node.js", "Express.js", "MongoDB"],
-    demoUrl: "https://email-registraion-project.vercel.app/",
-    githubUrl: "https://github.com/GauRaVNeGi29/Email-Registraion-Project",
+      "A Doctor Appointment booking Platform with Admin Panel",
+    image: "/image_d.png",
+    tags: ["React", "RazorPay", "JavaScript", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
+    demoUrl: "https://github.com/GauRaVNeGi29/Docify-Doctor-Appointment-Platform",
+    githubUrl: "https://github.com/GauRaVNeGi29/Docify-Doctor-Appointment-Platform",
   },
   {
     id: 3,
     title: "Stock Price Prediction",
     description:
-      "Can predict future stock using various ML models and Historical data.",
+    "Can predict future stock using various ML models and Historical data.",
     image: "/image_3.png",
     tags: ["Python", "Streamlit", "Pandas", "XG Boost", "yFinance"],
     demoUrl: "https://stock-wise.streamlit.app/",
@@ -34,7 +34,7 @@ const projects = [
     id: 4,
     title: "Flavor Dash",
     description:
-      "Food Delivery Website with interactive UI and efficient cart",
+    "Food Delivery Website with interactive UI and efficient cart",
     image: "/image_4.png",
     tags: ["React", "Tailwind CSS", "HTML", "JavaScript"],
     demoUrl: "https://flavor-dash-ashy.vercel.app/",
@@ -42,24 +42,24 @@ const projects = [
   },
   {
     id: 5,
-    title: "Weather API",
+    title: "Email Reg",
     description:
-      "Integrated OpenWeatherApi with attractive UI",
-    image: "/image_5.png",
-    tags: ["React", "OpenWeatherAPI", "Tailwind CSS", "JavaScript", "API Integration"],
-    demoUrl: "#",
-    githubUrl: "https://github.com/GauRaVNeGi29/Weather-App",
+      "A Full Stack Website providing various email registration features.",
+    image: "/image_2.png",
+    tags: ["JavaScript", "React", "Node.js", "Express.js", "MongoDB"],
+    demoUrl: "https://email-registraion-project.vercel.app/",
+    githubUrl: "https://github.com/GauRaVNeGi29/Email-Registraion-Project",
   },
   {
     id: 6,
-    title: "Stock Price Prediction",
+    title: "Weather API",
     description:
-      "Can predict future stock using various ML models and Historical data",
-    image: "/image_6.png",
-    tags: ["Python", "Streamlit", "Pandas", "XG Boost", "yFinance"],
-    demoUrl: "https://stock-wise.streamlit.app/",
-    githubUrl: "https://github.com/GauRaVNeGi29/Stock-Prediction",
-  },
+      "Integrated OpenWeatherApi with attractive UI",
+    image: "/image_w.png",
+    tags: ["React", "OpenWeatherAPI", "Tailwind CSS", "JavaScript", "API Integration"],
+    demoUrl: "https://github.com/GauRaVNeGi29/Weather-App",
+    githubUrl: "https://github.com/GauRaVNeGi29/Weather-App",
+  }
 ];
 
 export const ProjectsSection = () => {
